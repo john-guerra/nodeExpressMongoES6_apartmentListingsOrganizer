@@ -12,6 +12,18 @@ const listings = [
       "https://via.placeholder.com/150",
     ],
   },
+  {
+    title: "Spacious Loft with City View",
+    address: "456 Elm St, Metropolis",
+    price: 2000,
+    bedrooms: 3,
+    notes: "",
+    photos: [
+      "https://via.placeholder.com/150",
+      "https://via.placeholder.com/150",
+      "https://via.placeholder.com/150",
+    ],
+  },
 ];
 const router = express.Router();
 
